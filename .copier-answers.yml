@@ -1,0 +1,20 @@
+# Changes here will be overwritten by Copier
+_commit: 661f63b
+_src_path: .
+author_email: m@m.com
+author_fullname: Mark Bono
+author_username: bonicim
+copyright_date: '2021'
+copyright_holder: Mark Bono
+copyright_holder_email: m@m.com
+copyright_license: Academic Free License v3.0
+project_description: My agent
+project_name: MyAgent
+python_agent_class_name: Myagent
+python_package_command_line_name: myagent
+python_package_distribution_name: myagent
+python_package_import_name: myagent
+repository_name: myagent
+repository_namespace: bonicim
+repository_provider: github.com
+use_precommit: false
